@@ -68,7 +68,7 @@
             <img src="Visualizations/LatitudeVsMaxTemp.png" class="img-thumbnail">
           </div>
           <div class="caption">
-              <h5>Latitude vs Maximum Temperature</h5>
+              <h5>Latitude vs Max. Temperature</h5>
           </div>
         </div>      
         <div class="col-md-3">
