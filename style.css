@@ -1,3 +1,18 @@
 /* Style File */
-/* 
-h1 {font-size: 30px;} */
+ 
+.headline {background-color:lightskyblue;} 
+
+.container-fluid {border-style: solid; color:black; background-color:lightsteelblue}
+
+img.resize {
+	max-width:50%;
+	max-height:50%;
+      }
+
+ #box {border-style: unset; background-color: white; 
+
+ }
+
+thead {	background-color: lightskyblue}
+
+table {margin:20px}
